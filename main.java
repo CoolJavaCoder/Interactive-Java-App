@@ -84,7 +84,7 @@ public class main {
                 saveButton.setVisible(true);
                 editArea.setVisible(true);
                 startbtn.setVisible(false);
-                titlepg1.setVisible(false);
+                titlepg1.setText("JDocs editor");
             }
         });
 
